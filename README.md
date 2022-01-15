@@ -35,5 +35,5 @@
 </div>
   
  <div style="display: inline_block"><br>
-     <h3 style="color:#FFFFFF"> &nbsp;Algumas tecnologias tenho experiência a algum tempo, outras, estão sendo estudadas para aperfeiçoar as técnicas de desenvolvimento.</h3>
+     <h3 style="color:#FFFFFF"> &nbsp;Algumas tecnologias tenho experiência há algum tempo, outras, estão sendo estudadas para aperfeiçoar as técnicas de desenvolvimento.</h3>
 </div>
